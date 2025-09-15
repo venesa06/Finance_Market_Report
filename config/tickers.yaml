@@ -1,0 +1,36 @@
+indian_indices:
+  - {symbol: "^NSEI",     name: "NIFTY 50"}
+  - {symbol: "^NSEBANK",  name: "NIFTY BANK"}
+  - {symbol: "^CNXIT",    name: "NIFTY IT"}
+  - {symbol: "^BSESN",    name: "SENSEX"}
+  - {symbol: "^INDIAVIX", name: "INDIA VIX"}
+
+international_indices:
+  - {symbol: "^GSPC",     name: "S&P 500"}
+  - {symbol: "^DJI",      name: "Dow Jones"}
+  - {symbol: "^IXIC",     name: "NASDAQ"}
+  - {symbol: "^FTSE",     name: "FTSE 100"}
+  - {symbol: "^GDAXI",    name: "DAX"}
+  - {symbol: "^N225",     name: "Nikkei 225"}
+  - {symbol: "^HSI",      name: "Hang Seng"}
+  - {symbol: "000001.SS", name: "Shanghai Composite"}
+
+currencies:
+  - {symbol: "INR=X",     name: "USD/INR"}
+  - {symbol: "EURINR=X",  name: "EUR/INR"}
+  - {symbol: "GBPINR=X",  name: "GBP/INR"}
+
+crypto:
+  - {symbol: "BTC-USD",   name: "Bitcoin (BTC)"}
+  - {symbol: "ETH-USD",   name: "Ethereum (ETH)"}
+
+commodities:
+  - {symbol: "GC=F", name: "Gold (USD/oz)"}
+  - {symbol: "SI=F", name: "Silver (USD/oz)"}
+  - {symbol: "CL=F", name: "Crude Oil (USD/barrel)"}
+
+commodities:
+  - {symbol: "GC=F",  name: "Gold Futures"}
+  - {symbol: "SI=F",  name: "Silver Futures"}
+  - {symbol: "CL=F",  name: "Crude Oil WTI"}
+

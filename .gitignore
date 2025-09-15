@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Data, reports, tmp
+data/raw/
+data/processed/
+reports/
+tmp/
+
+# dotenv
+.env
+
+# Editor / OS
+.vscode/
+*.log
+.DS_Store
+Thumbs.db

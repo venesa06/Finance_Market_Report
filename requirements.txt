@@ -1,0 +1,7 @@
+yfinance
+pandas
+PyYAML
+python-dotenv
+nsetools
+requests
+pytz
